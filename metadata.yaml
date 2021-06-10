@@ -1,0 +1,34 @@
+_repo: Les-Reveries-du-Promeneur-Solitaire-Ouvrage-faisant-suite-aux-Confessions_65434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rousseau, Jean-Jacques
+    aliases:
+    - Rousseau, Jean Jacques
+    - Rousseau, J. J. (Jean-Jacques)
+    birthdate: 1712
+    deathdate: 1778
+    gutenberg_agent_id: '1286'
+    url: http://www.gutenberg.org/2009/agents/1286
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
+    - https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau
+description: ''
+gutenberg_issued: '2021-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65434'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-perception'
+- !lcc 'PQ'
+- !lcsh 'Happiness'
+- !lcsh 'Nature'
+- GITenberg
+title: 'Les Rêveries du Promeneur Solitaire
+
+  Ouvrage faisant suite aux Confessions'
+url: http://www.gutenberg.org/ebooks/65434
