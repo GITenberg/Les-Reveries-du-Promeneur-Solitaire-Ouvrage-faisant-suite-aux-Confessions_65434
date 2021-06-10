@@ -1,5 +1,8 @@
 _repo: Les-Reveries-du-Promeneur-Solitaire-Ouvrage-faisant-suite-aux-Confessions_65434
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65434-h/images/reveries_cover.jpg
 creator:
   author:
     agent_name: Rousseau, Jean-Jacques
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
     - https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65434#Les-Reveries-du-Promeneur-Solitaire-Ouvrage-faisant-suite-aux-Confessions
 gutenberg_issued: '2021-05-24'
 gutenberg_type: Text
 identifiers:
